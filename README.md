@@ -2,10 +2,6 @@
 <h1 align="center">👋 Hi, I'm Uday</h1>
 <h3 align="center">DevOps Engineer | CI/CD | Automation</h3>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img src="https://github.com/UdayKumarChunduru/UdayKumarChunduru/raw/main/assets/greeting.gif" alt="DevOps / Coding / Networking / Gaming GIF" style="max-width: 100%; height: auto;">
-</div>
-
 ---
 
 <h2 align="center">🛠️ My Tech Arsenal</h2>
