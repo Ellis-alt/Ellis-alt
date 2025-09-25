@@ -1,0 +1,36 @@
+# .github/workflows/snake.yml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Important: needs write permission to commit the new SVG
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          # GitHub user name to read the contribution graph from
+          github_user_name: UdayKumarChunduru
+          # File name for the snake image
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake.svg
+            
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # The branch the action should deploy to
+          publish_branch: output
+          # The folder the action should deploy
+          publish_dir: ./output
+          # Required for the image to be accessible via the raw link in README.md
+          force_orphan: true
