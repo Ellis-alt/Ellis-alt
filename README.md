@@ -83,7 +83,7 @@
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ellis-alt/Ellis-alt/refs/heads/main/assets/github-contribution-grid-snake.svg?token=GHSAT0AAAAAADL26TP2LA4FWQL77MJX2UOG2GWI2JQ" alt="Snake Contribution Grid">
+  <img src="https://raw.githubusercontent.com/Ellis-alt/Ellis-alt/refs/heads/main/assets/github-contribution-grid-snake.svg?token=GHSAT0AAAAAADL26TP2ABXT732WXQICP3522GWI37A" alt="Snake Contribution Grid">
 </p>
 
 <!-- SVG Divider -->
