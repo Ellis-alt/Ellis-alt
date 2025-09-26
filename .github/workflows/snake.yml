@@ -1,36 +1,34 @@
-# .github/workflows/snake.yml
-name: Generate Snake Animation
+name: Update Snake Animation
 
 on:
   schedule:
-    # Runs every 12 hours
     - cron: '0 */12 * * *'
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Important: needs write permission to commit the new SVG
-
+      contents: write
     steps:
-      - uses: actions/checkout@v4
-      - uses: Platane/snk@v3
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Generate snake animation
+        uses: Platane/snk@v3
         with:
-          # GitHub user name to read the contribution graph from
-          github_user_name: Ellis-alt
-          # File name for the snake image
+          github_user_name: UdayKumarChunduru
           outputs: |
-            output/github-contribution-grid-snake.svg
-            output/github-contribution-grid-snake.svg
-            
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          # The branch the action should deploy to
-          publish_branch: output
-          # The folder the action should deploy
-          publish_dir: ./output
-          # Required for the image to be accessible via the raw link in README.md
-          force_orphan: true
+            assets/github-contribution-grid-snake.svg
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+      - name: Push snake animation
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/
+          git commit -m "Update snake animation"
+          git push
