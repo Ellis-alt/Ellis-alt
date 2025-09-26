@@ -1,6 +1,6 @@
-<h2 align="center">👋 Hi, I'm Uday</h2>
+<div align="center">👋 Hi, I'm Uday</div>
 
-<h2 align="center">🧑‍💻 About Me</h2>
+<div align="center">🧑‍💻 About Me</div>
 <p align="center">
 🧰 DevOps Engineer<br>
 🖥️ Hands-on experience with CI/CD pipelines, infrastructure, and automation<br>
