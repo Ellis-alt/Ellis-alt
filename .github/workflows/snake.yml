@@ -18,10 +18,10 @@ jobs:
       - uses: Platane/snk@v3
         with:
           # GitHub user name to read the contribution graph from
-          github_user_name: UdayKumarChunduru
+          github_user_name: Ellis-alt
           # File name for the snake image
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake.svg
             
       - name: Deploy to GitHub Pages
