@@ -7,11 +7,6 @@
 🎓 Graduated in Mechanical Engineering (2022)
 </p>
 
-<!-- SVG Divider -->
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="12" viewBox="0 0 100 12" preserveAspectRatio="none">
-  <line x1="0" y1="6" x2="100" y2="6" stroke="currentColor" stroke-width="1.5" vector-effect="non-scaling-stroke"/>
-</svg>
-
 <div align="center">
 <h2 align="center">My DevOps Arsenal</h2>
 
@@ -56,11 +51,6 @@
 </tr>
 </table>
 
-<!-- SVG Divider -->
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="12" viewBox="0 0 100 12" preserveAspectRatio="none">
-  <line x1="0" y1="6" x2="100" y2="6" stroke="currentColor" stroke-width="1.5" vector-effect="non-scaling-stroke"/>
-</svg>
-
 <h2 align="center">📈 My GitHub Journey</h2>
 
 <table width="100%" align="center">
@@ -81,11 +71,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Ellis-alt/Ellis-alt/refs/heads/main/assets/github-contribution-grid-snake.svg" alt="Snake Contribution Grid">
 </p>
-
-<!-- SVG Divider -->
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="12" viewBox="0 0 100 12" preserveAspectRatio="none">
-  <line x1="0" y1="6" x2="100" y2="6" stroke="currentColor" stroke-width="1.5" vector-effect="non-scaling-stroke"/>
-</svg>
 
 <h2 align="center">📫 Connect with Me</h2>
 
