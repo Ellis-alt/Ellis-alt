@@ -57,7 +57,7 @@
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ellis-alt/Ellis-alt/output/github-contribution-grid-snake.svg" alt="Snake Contribution Grid">
+  <img src="https://raw.githubusercontent.com/Ellis-alt/Ellis-alt/refs/heads/main/output/github-contribution-grid-snake-dark.svg?token=GHSAT0AAAAAADL5ZYCTCVSZRSZ3QUKLRTE62GV3EZA" alt="Snake Contribution Grid">
 </p>
 <br>
 
