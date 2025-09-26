@@ -1,8 +1,3 @@
-<!-- SVG Divider -->
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="12" viewBox="0 0 100 12" preserveAspectRatio="none">
-  <line x1="0" y1="6" x2="100" y2="6" stroke="currentColor" stroke-width="1.5" vector-effect="non-scaling-stroke"/>
-</svg>
-
 <h2 align="center">👋 Hi, I'm Uday</h2>
 
 <h3 align="center">🧑‍💻 About Me</h3>
