@@ -5,15 +5,11 @@
 
 <h2 align="center">👋 Hi, I'm Uday</h2>
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img src="assets/greeting.gif" alt="DevOps / Coding / Networking / Gaming GIF" style="max-width: 100%; height: auto;">
-</div>
-
 <h3 align="center">🧑‍💻 About Me</h3>
 <p align="center">
-· 🧰 DevOps Engineer<br>
-· 🖥️ Hands-on experience with CI/CD pipelines, infrastructure, and automation<br>
-· 🎓 Graduated in Mechanical Engineering (2022)
+🧰 DevOps Engineer<br>
+🖥️ Hands-on experience with CI/CD pipelines, infrastructure, and automation<br>
+🎓 Graduated in Mechanical Engineering (2022)
 </p>
 
 <!-- SVG Divider -->
