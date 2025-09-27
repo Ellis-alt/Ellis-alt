@@ -14,7 +14,7 @@
   </ul>
 </div>
 
-<table width="100%" align="center">
+<table width="90%" align="center" style="margin: 0 auto;">
 <tr>
 <td align="center">
   <p>
@@ -34,7 +34,7 @@
   </ul>
 </div>
 
-<table width="100%" align="center">
+<table width="90%" align="center" style="margin: 0 auto;">
 <tr valign="top">
 <td width="50%" align="center">
   <h3>Programming & Scripting</h3>
@@ -81,19 +81,19 @@
   </ul>
 </div>
 
-<table width="100%" align="center">
+<table width="90%" align="center" style="margin: 0 auto;">
 <tr valign="top">
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UdayKumarChunduru&show_icons=true&theme=highcontrast&hide_border=true&card_width=400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UdayKumarChunduru&show_icons=true&theme=highcontrast&hide_border=true&card_width=400" alt="GitHub Stats" width="100%" style="max-width: 400px;"/>
 </td>
 <td width="50%" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayKumarChunduru&layout=compact&theme=highcontrast&hide_border=true&card_width=400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UdayKumarChunduru&layout=compact&theme=highcontrast&hide_border=true&card_width=400" alt="Top Languages" width="100%" style="max-width: 400px;"/>
 </td>
 </tr>
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ellis-alt/Ellis-alt/refs/heads/main/assets/github-contribution-grid-snake.svg" alt="Snake Contribution Grid">
+  <img src="https://raw.githubusercontent.com/Ellis-alt/Ellis-alt/refs/heads/main/assets/github-contribution-grid-snake.svg" alt="Snake Contribution Grid" width="90%" style="max-width: 100%;">
 </p>
 
 <div id="user-content-toc">
@@ -104,7 +104,7 @@
   </ul>
 </div>
 
-<table width="100%" align="center">
+<table width="90%" align="center" style="margin: 0 auto;">
 <tr>
 <td align="center">
   <p>
