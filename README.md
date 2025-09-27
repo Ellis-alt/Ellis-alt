@@ -14,7 +14,7 @@
   </ul>
 </div>
 
-<table width="90%" align="center" style="margin: 0 auto;">
+<table width="90%" align="center" style="margin: 0 auto; padding: 50;">
 <tr>
 <td align="center">
   <p>
