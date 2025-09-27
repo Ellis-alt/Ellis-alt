@@ -1,7 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm Uday</h1>
 </div>
-
 <div align="center">
   <h2>🧑‍💻 About Me</h2>
 </div>
