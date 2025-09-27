@@ -91,5 +91,5 @@
 </p>
 </div>
 <picture>
-  <img src="https://count.getloli.com/@UdayKumarChunduru&theme=rule34&darkmode=0" />
+  <img src="https://count.getloli.com/@UdayKumarChunduru&theme=minecraft&darkmode=0" />
 </picture>
