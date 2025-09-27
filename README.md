@@ -90,3 +90,6 @@
   <img src="https://komarev.com/ghpvc/?username=UdayKumarChunduru&style=for-the-badge&labelColor=000000&color=39FF14" alt="Profile Views Count" />
 </p>
 </div>
+<picture>
+  <img src="https://count.getloli.com/@UdayKumarChunduru&theme=rule34&darkmode=0" />
+</picture>
